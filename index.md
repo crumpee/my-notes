@@ -1,4 +1,3 @@
-[FoF Quest Log.md](https://github.com/user-attachments/files/31342978/FoF.Quest.Log.md)
 🧭 QUEST LOG 
 
 📊 CURRENT PRIORITIES 
@@ -145,3 +144,5 @@ Reward
 Druid Reidoth 
 Thunder Tree 
 Info on cragmaw castle 
+
+This is a test
