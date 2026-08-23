@@ -32,7 +32,7 @@ Objectives
 * ✅ Track goblins to cave
 * ✅ Clear goblin hideout
 * ✅ Rescue Sildar
-*<mark> ❌Go to Thunder Tree and find a Druid named Reidoth to get information on how to find Cragmaw Castle</mark>
+* ❌<mark>Go to Thunder Tree and find a Druid named Reidoth to get information on how to find Cragmaw Castle</mark>
 * ❌ Locate Gundren
 * ❌ Recover map to Wave Echo Cave
 
