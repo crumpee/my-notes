@@ -2,12 +2,12 @@
 
 📊 CURRENT PRIORITIES 
 
-<mark>1. 🔴 Find Gundren Rockseeker (MAIN STORY)</mark>
-1. 🔴 Finish Redbrands / Defeat Glasstaff
-2. 🟡 Investigate Black Spider connection
-3. 🟢Banshee quest at Conyberry
-4. 🟣 Investigate Owl Well Ruins
-5. 🟢 Disband Orcs on Triboar Trail 
+<mark>🔴 Find Gundren Rockseeker (MAIN STORY)</mark>
+ 🔴 Finish Redbrands / Defeat Glasstaff
+🟡 Investigate Black Spider connection
+🟢Banshee quest at Conyberry
+🟣 Investigate Owl Well Ruins
+🟢 Disband Orcs on Triboar Trail 
 
 
 
