@@ -32,7 +32,7 @@ Objectives
 * ✅ Track goblins to cave
 * ✅ Clear goblin hideout
 * ✅ Rescue Sildar
-<mark>*❌ Go to Thunder Tree and find a Druid named Reidoth to get information on how to find Cragmaw Castle</mark>
+*<mark> ❌Go to Thunder Tree and find a Druid named Reidoth to get information on how to find Cragmaw Castle</mark>
 * ❌ Locate Gundren
 * ❌ Recover map to Wave Echo Cave
 
@@ -40,7 +40,7 @@ Key Discoveries
 
 * Gundren captured by agents of The Black Spider
 * Map leads to Wave Echo Cave (near Cragmaw Castle)
-
+* <mark>Daren Edermath told us to find a Druid named Reidoth in Thunder Tree for information on Cragmaw Castle.</mark>
 
 🟢 SIDE QUEST: “Banshee’s Bargain”
 
