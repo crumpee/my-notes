@@ -2,12 +2,13 @@
 
 📊 CURRENT PRIORITIES 
 
-1. 🔴 Find Gundren Rockseeker (MAIN STORY)
+1. ==🔴 Find Gundren Rockseeker (MAIN STORY)==
 2. 🔴 Finish Redbrands / Defeat Glasstaff
 3. 🟡 Investigate Black Spider connection
 4. 🟢Banshee quest at Conyberry
-5. 🟡 Investigate Owl Well Ruins
+5. 🟣 Investigate Owl Well Ruins
 6. 🟢 Disband Orcs on Triboar Trail 
+
 
 
 🟡 MAIN QUESTLINE: “The Lost Caravan”
@@ -31,6 +32,7 @@ Objectives
 * ✅ Track goblins to cave
 * ✅ Clear goblin hideout
 * ✅ Rescue Sildar
+* ==❌ Go to Thunder Tree and find a Druid named Reidoth to get information on how to find Cragmaw Castle==
 * ❌ Locate Gundren
 * ❌ Recover map to Wave Echo Cave
 
@@ -141,9 +143,4 @@ Reward
 *  ~~100GP for Orc remains~~
 * Unknown (But should be good)
 
-Druid Reidoth 
-Thunder Tree 
-Info on cragmaw castle 
 
-This is a test
-If I change this does it come up on yours 
