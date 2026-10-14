@@ -40,7 +40,7 @@ Key Discoveries
 
 * Gundren captured by agents of The Black Spider
 * Map leads to Wave Echo Cave (near Cragmaw Castle)
-* <mark>Daren Edermath told us to find a Druid named Reidoth in Thunder Tree for information on Cragmaw Castle. He marked it on our map and </mark>
+* <mark>Daren Edermath told us to find a Druid named Reidoth in Thunder Tree for information on Cragmaw Castle. He marked it on our map and told us about a cult to the south east that chant and wear black masks/robes</mark>
 
 🟢 SIDE QUEST: “Banshee’s Bargain”
 
